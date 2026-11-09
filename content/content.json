@@ -1,0 +1,502 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": 1,
+  "quotes": {
+    "tr": [
+      "Birkaç dakika ayır, kalbin dinlensin.",
+      "Gün bitmeden bir tespih de Rabbin için.",
+      "Az da olsa her gün; zikir böyle kök salar.",
+      "Bilesiniz ki kalpler ancak Allah'ı anmakla huzur bulur. — Ra'd, 28",
+      "Beni anın ki ben de sizi anayım. — Bakara, 152",
+      "Şüphesiz güçlükle beraber bir kolaylık vardır. — İnşirâh, 6",
+      "Bana dua edin, size icabet edeyim. — Mü'min, 60",
+      "Şüphesiz Allah sabredenlerle beraberdir. — Bakara, 153",
+      "Şükrederseniz, elbette size nimetimi artırırım. — İbrâhîm, 7",
+      "Allah'ın rahmetinden ümidinizi kesmeyin. — Zümer, 53",
+      "Biz ona şah damarından daha yakınız. — Kâf, 16",
+      "Allah bize yeter; O ne güzel vekildir. — Âl-i İmrân, 173",
+      "Kullarım beni sana sorarsa, şüphesiz ben çok yakınım. — Bakara, 186",
+      "Rabbinin adını an ve bütün varlığınla O'na yönel. — Müzzemmil, 8",
+      "Allah hiç kimseye gücünün yeteceğinden fazlasını yüklemez. — Bakara, 286",
+      "Rabbinin nimetini anlat. — Duhâ, 11",
+      "Allah katında amellerin en sevimlisi, az da olsa devamlı olanıdır. — Hadis (Buhârî, Müslim)",
+      "İki kelime vardır; dile hafif, mizanda ağır, Rahmân'a sevimli: Sübhânallâhi ve bihamdihî, Sübhânallâhil azîm. — Hadis (Buhârî)",
+      "Rabbini zikredenle zikretmeyenin misali, diri ile ölü gibidir. — Hadis (Buhârî)",
+      "Kolaylaştırın, zorlaştırmayın; müjdeleyin, nefret ettirmeyin. — Hadis (Buhârî)",
+      "Din kardeşine gülümsemen sadakadır. — Hadis (Tirmizî)",
+      "Allah sizin suretlerinize ve mallarınıza bakmaz; kalplerinize ve amellerinize bakar. — Hadis (Müslim)",
+      "Kişi sevdiğiyle beraberdir. — Hadis (Buhârî, Müslim)",
+      "Kim bir hayra vesile olursa, onu yapan gibi sevap alır. — Hadis (Müslim)",
+      "Yaratılanı severim, Yaratan'dan ötürü. — Yunus Emre",
+      "Gelin tanış olalım, işi kolay kılalım; sevelim sevilelim, dünya kimseye kalmaz. — Yunus Emre",
+      "Bir kez gönül yıktın ise, bu kıldığın namaz değil. — Yunus Emre",
+      "İlim ilim bilmektir, ilim kendin bilmektir. — Yunus Emre",
+      "Aşkın aldı benden beni, bana seni gerek seni. — Yunus Emre",
+      "Dünle beraber gitti cancağızım, ne kadar söz varsa düne ait. — Mevlânâ",
+      "Allah'ı bulan neyi kaybeder? Allah'ı kaybeden neyi bulur? — Said Nursi",
+      "Güzel gören güzel düşünür; güzel düşünen hayatından lezzet alır. — Said Nursi",
+      "Dünkü gün elinden çıktı, yarınki gün ise senin değil; hakiki ömrün şu bulunduğun gündür. — Said Nursi",
+      "Şükür, nimeti ziyadeleştirir. — Said Nursi"
+    ],
+    "en": [
+      "Take a few minutes and let your heart rest.",
+      "Before the day ends, one tasbih for your Lord.",
+      "A little every day; that is how dhikr takes root.",
+      "Truly, in the remembrance of Allah do hearts find rest. — Quran 13:28",
+      "Remember Me, and I will remember you. — Quran 2:152",
+      "Indeed, with hardship comes ease. — Quran 94:6",
+      "Call upon Me; I will answer you. — Quran 40:60",
+      "Indeed, Allah is with those who are patient. — Quran 2:153",
+      "If you are grateful, I will surely give you more. — Quran 14:7",
+      "Do not despair of the mercy of Allah. — Quran 39:53",
+      "We are closer to him than his jugular vein. — Quran 50:16",
+      "Allah is enough for us, and He is the best Trustee. — Quran 3:173",
+      "When My servants ask you about Me, I am indeed near. — Quran 2:186",
+      "Remember the name of your Lord and devote yourself to Him completely. — Quran 73:8",
+      "Allah does not burden a soul beyond what it can bear. — Quran 2:286",
+      "Proclaim the blessings of your Lord. — Quran 93:11",
+      "The deeds most loved by Allah are those done regularly, even if small. — Hadith (Bukhari, Muslim)",
+      "Two phrases are light on the tongue, heavy on the scale and beloved to the Most Merciful: SubhanAllahi wa bihamdihi, SubhanAllahil Azim. — Hadith (Bukhari)",
+      "The one who remembers his Lord and the one who does not are like the living and the dead. — Hadith (Bukhari)",
+      "Make things easy, not hard; give good news, do not drive people away. — Hadith (Bukhari)",
+      "Your smile for your brother is charity. — Hadith (Tirmidhi)",
+      "Allah does not look at your appearance or wealth, but at your hearts and deeds. — Hadith (Muslim)",
+      "A person will be with those they love. — Hadith (Bukhari, Muslim)",
+      "Whoever guides to good gets a reward like the one who does it. — Hadith (Muslim)",
+      "I love the created for the sake of the Creator. — Yunus Emre",
+      "Come, let us be friends and make things easy; let us love and be loved, the world is left to no one. — Yunus Emre",
+      "If you have broken a heart, the prayer you offer is not a prayer. — Yunus Emre",
+      "Knowledge is to know; knowledge is to know yourself. — Yunus Emre",
+      "Your love has taken me from myself; it is You I need. — Yunus Emre",
+      "Gone with yesterday, dear one, are all the words that belonged to yesterday. — Rumi",
+      "What does one who finds Allah lose? What does one who loses Allah find? — Said Nursi",
+      "Whoever sees the good thinks good; whoever thinks good enjoys life. — Said Nursi",
+      "Yesterday has left your hands and tomorrow is not yours; your true life is the day you are in. — Said Nursi",
+      "Gratitude increases the blessing. — Said Nursi"
+    ],
+    "nl": [
+      "Neem een paar minuten en laat je hart tot rust komen.",
+      "Voordat de dag eindigt, één tasbih voor je Heer.",
+      "Elke dag een beetje; zo schiet dhikr wortel.",
+      "Voorwaar, in het gedenken van Allah vinden de harten rust. — Koran 13:28",
+      "Gedenk Mij, dan zal Ik jullie gedenken. — Koran 2:152",
+      "Voorwaar, met de moeilijkheid komt verlichting. — Koran 94:6",
+      "Roep Mij aan, dan zal Ik jullie verhoren. — Koran 40:60",
+      "Voorwaar, Allah is met de geduldigen. — Koran 2:153",
+      "Als jullie dankbaar zijn, zal Ik jullie zeker meer geven. — Koran 14:7",
+      "Wanhoop niet aan de barmhartigheid van Allah. — Koran 39:53",
+      "Wij zijn hem nader dan zijn halsslagader. — Koran 50:16",
+      "Allah is ons genoeg, en Hij is de beste Beschermer. — Koran 3:173",
+      "Wanneer Mijn dienaren jou over Mij vragen: Ik ben dichtbij. — Koran 2:186",
+      "Gedenk de naam van je Heer en wijd je volledig aan Hem. — Koran 73:8",
+      "Allah belast geen ziel boven haar vermogen. — Koran 2:286",
+      "Vertel over de gunsten van je Heer. — Koran 93:11",
+      "De daden die Allah het meest liefheeft zijn de vaste, ook al zijn ze klein. — Hadith (Bukhari, Muslim)",
+      "Twee woorden zijn licht op de tong, zwaar op de weegschaal en geliefd bij de Barmhartige: SubhanAllahi wa bihamdihi, SubhanAllahil Azim. — Hadith (Bukhari)",
+      "Wie zijn Heer gedenkt en wie dat niet doet, zijn als de levende en de dode. — Hadith (Bukhari)",
+      "Maak het makkelijk, niet moeilijk; breng goed nieuws, stoot niet af. — Hadith (Bukhari)",
+      "Je glimlach naar je broeder is liefdadigheid. — Hadith (Tirmidhi)",
+      "Allah kijkt niet naar jullie uiterlijk of bezit, maar naar jullie harten en daden. — Hadith (Muslim)",
+      "Een mens is met wie hij liefheeft. — Hadith (Bukhari, Muslim)",
+      "Wie naar het goede leidt, krijgt dezelfde beloning als wie het doet. — Hadith (Muslim)",
+      "Ik houd van het geschapene omwille van de Schepper. — Yunus Emre",
+      "Kom, laten we vrienden zijn en het makkelijk maken; laten we liefhebben en bemind worden, de wereld blijft voor niemand. — Yunus Emre",
+      "Als je een hart hebt gebroken, is je gebed geen gebed. — Yunus Emre",
+      "Kennis is weten; kennis is jezelf kennen. — Yunus Emre",
+      "Uw liefde nam mij van mijzelf; U heb ik nodig. — Yunus Emre",
+      "Met gisteren, lieve, ging elk woord dat bij gisteren hoorde. — Rumi",
+      "Wat verliest wie Allah vindt? Wat vindt wie Allah verliest? — Said Nursi",
+      "Wie het mooie ziet, denkt mooi; wie mooi denkt, geniet van het leven. — Said Nursi",
+      "Gisteren is je ontglipt en morgen is niet van jou; je ware leven is de dag van vandaag. — Said Nursi",
+      "Dankbaarheid vermeerdert de zegen. — Said Nursi"
+    ],
+    "de": [
+      "Nimm dir ein paar Minuten und lass dein Herz ruhen.",
+      "Bevor der Tag endet, eine Tasbih für deinen Herrn.",
+      "Jeden Tag ein wenig; so schlägt der Dhikr Wurzeln.",
+      "Wahrlich, im Gedenken Allahs finden die Herzen Ruhe. — Koran 13:28",
+      "Gedenkt Meiner, so gedenke Ich euer. — Koran 2:152",
+      "Wahrlich, mit der Erschwernis kommt Erleichterung. — Koran 94:6",
+      "Ruft Mich an, so erhöre Ich euch. — Koran 40:60",
+      "Wahrlich, Allah ist mit den Geduldigen. — Koran 2:153",
+      "Wenn ihr dankbar seid, werde Ich euch gewiss noch mehr geben. — Koran 14:7",
+      "Verliert nicht die Hoffnung auf Allahs Barmherzigkeit. — Koran 39:53",
+      "Wir sind ihm näher als seine Halsschlagader. — Koran 50:16",
+      "Allah genügt uns, und Er ist der beste Sachwalter. — Koran 3:173",
+      "Wenn dich Meine Diener nach Mir fragen, so bin Ich nahe. — Koran 2:186",
+      "Gedenke des Namens deines Herrn und widme dich Ihm ganz. — Koran 73:8",
+      "Allah erlegt keiner Seele mehr auf, als sie zu tragen vermag. — Koran 2:286",
+      "Erzähle von der Gnade deines Herrn. — Koran 93:11",
+      "Die bei Allah beliebtesten Taten sind die beständigen, auch wenn sie klein sind. — Hadith (Bukhari, Muslim)",
+      "Zwei Worte sind leicht auf der Zunge, schwer auf der Waage und dem Allerbarmer lieb: SubhanAllahi wa bihamdihi, SubhanAllahil Azim. — Hadith (Bukhari)",
+      "Wer seines Herrn gedenkt und wer es nicht tut, gleichen dem Lebenden und dem Toten. — Hadith (Bukhari)",
+      "Macht es leicht, nicht schwer; verkündet Gutes, schreckt nicht ab. — Hadith (Bukhari)",
+      "Dein Lächeln für deinen Bruder ist eine Spende. — Hadith (Tirmidhi)",
+      "Allah schaut nicht auf euer Äußeres und euren Besitz, sondern auf eure Herzen und Taten. — Hadith (Muslim)",
+      "Der Mensch ist mit denen, die er liebt. — Hadith (Bukhari, Muslim)",
+      "Wer zum Guten führt, erhält den gleichen Lohn wie der, der es tut. — Hadith (Muslim)",
+      "Ich liebe die Geschöpfe um des Schöpfers willen. — Yunus Emre",
+      "Kommt, lasst uns Freunde sein und es leicht machen; lasst uns lieben und geliebt werden, die Welt bleibt niemandem. — Yunus Emre",
+      "Wenn du ein Herz gebrochen hast, ist dein Gebet kein Gebet. — Yunus Emre",
+      "Wissen heißt zu wissen; Wissen heißt, sich selbst zu kennen. — Yunus Emre",
+      "Deine Liebe nahm mich mir selbst; Dich brauche ich. — Yunus Emre",
+      "Mit dem Gestern, Liebes, ging jedes Wort, das zum Gestern gehörte. — Rumi",
+      "Was verliert, wer Allah findet? Was findet, wer Allah verliert? — Said Nursi",
+      "Wer Schönes sieht, denkt schön; wer schön denkt, genießt das Leben. — Said Nursi",
+      "Das Gestern ist dir entglitten, das Morgen gehört dir nicht; dein wahres Leben ist der heutige Tag. — Said Nursi",
+      "Dankbarkeit vermehrt die Gabe. — Said Nursi"
+    ]
+  },
+  "dhikrs": [
+    {
+      "key": "subhanallah",
+      "seedId": 1,
+      "text": "سُبْحَانَ ٱللَّٰهِ",
+      "transliteration": "Subhanallah",
+      "meaning": {
+        "tr": "Allah her türlü eksiklikten uzaktır",
+        "en": "Glory be to Allah",
+        "nl": "Glorie zij Allah",
+        "de": "Gepriesen sei Allah"
+      },
+      "target": 33,
+      "category": "tasbih"
+    },
+    {
+      "key": "alhamdulillah",
+      "seedId": 2,
+      "text": "ٱلْحَمْدُ لِلَّٰهِ",
+      "transliteration": "Alhamdulillah",
+      "meaning": {
+        "tr": "Hamd Allah'a mahsustur",
+        "en": "All praise is due to Allah",
+        "nl": "Alle lof is voor Allah",
+        "de": "Alles Lob gebührt Allah"
+      },
+      "target": 33,
+      "category": "tasbih"
+    },
+    {
+      "key": "allahu-ekber",
+      "seedId": 3,
+      "text": "ٱللَّٰهُ أَكْبَرُ",
+      "transliteration": "Allahu Ekber",
+      "meaning": {
+        "tr": "Allah en büyüktür",
+        "en": "Allah is the Greatest",
+        "nl": "Allah is de Grootste",
+        "de": "Allah ist der Größte"
+      },
+      "target": 33,
+      "category": "tasbih"
+    },
+    {
+      "key": "la-ilahe-illallah",
+      "seedId": 4,
+      "text": "لَا إِلٰهَ إِلَّا ٱللَّٰهُ",
+      "transliteration": "La ilahe illallah",
+      "meaning": {
+        "tr": "Allah'tan başka ilah yoktur",
+        "en": "There is no god but Allah",
+        "nl": "Er is geen god dan Allah",
+        "de": "Es gibt keinen Gott außer Allah"
+      },
+      "target": 100,
+      "category": "tasbih"
+    },
+    {
+      "key": "estagfirullah",
+      "seedId": 5,
+      "text": "أَسْتَغْفِرُ ٱللَّٰهَ",
+      "transliteration": "Estağfirullah",
+      "meaning": {
+        "tr": "Allah'tan bağışlanma dilerim",
+        "en": "I seek forgiveness from Allah",
+        "nl": "Ik vraag Allah om vergeving",
+        "de": "Ich bitte Allah um Vergebung"
+      },
+      "target": 100,
+      "category": "dua"
+    },
+    {
+      "key": "ya-muheymin",
+      "seedId": 6,
+      "text": "يَا مُهَيْمِنُ",
+      "transliteration": "Ya Müheymin",
+      "meaning": {
+        "tr": "Koruyup gözeten, himaye eden",
+        "en": "O Guardian who watches over all",
+        "nl": "O Beschermer die over alles waakt",
+        "de": "O Behüter, der über alles wacht"
+      },
+      "target": 145,
+      "category": "dua"
+    },
+    {
+      "key": "ya-fettah",
+      "seedId": 7,
+      "text": "يَا فَتَّاحُ",
+      "transliteration": "Ya Fettah",
+      "meaning": {
+        "tr": "Ey açan, fetih veren",
+        "en": "O Opener, who grants victory",
+        "nl": "O Opener, die de overwinning schenkt",
+        "de": "O Öffner, der den Sieg schenkt"
+      },
+      "target": 489,
+      "category": "dua"
+    },
+    {
+      "key": "ya-kuddus",
+      "seedId": 8,
+      "text": "يَا قُدُّوسُ",
+      "transliteration": "Ya Kuddüs",
+      "meaning": {
+        "tr": "Ey her türlü noksanlıktan uzak olan",
+        "en": "O Most Holy, free of all imperfection",
+        "nl": "O Heilige, vrij van elke onvolkomenheid",
+        "de": "O Heiliger, frei von jedem Makel"
+      },
+      "target": 170,
+      "category": "dua"
+    },
+    {
+      "key": "el-vekil",
+      "seedId": 9,
+      "text": "يَا وَكِيلُ",
+      "transliteration": "El Vekil",
+      "meaning": {
+        "tr": "Ey vekil olan, güvenilen",
+        "en": "O Trustee, the One relied upon",
+        "nl": "O Vertrouwde, op wie men steunt",
+        "de": "O Sachwalter, auf den man vertraut"
+      },
+      "target": 66,
+      "category": "dua"
+    },
+    {
+      "key": "hasbunallahu-ve-nimel-vekil",
+      "seedId": 10,
+      "text": "حَسْبُنَا ٱللَّٰهُ وَنِعْمَ ٱلْوَكِيلُ",
+      "transliteration": "Hasbunallahu ve nimel vekil",
+      "meaning": {
+        "tr": "Allah bize yeter, O ne güzel vekildir",
+        "en": "Allah is sufficient for us, and He is the best Trustee",
+        "nl": "Allah is ons genoeg, en Hij is de beste Beschermer",
+        "de": "Allah genügt uns, und Er ist der beste Sachwalter"
+      },
+      "target": 100,
+      "category": "dua"
+    },
+    {
+      "key": "ya-vehhab",
+      "seedId": 11,
+      "text": "يَا وَهَّابُ",
+      "transliteration": "Ya Vehhab",
+      "meaning": {
+        "tr": "Ey karşılıksız bolca veren",
+        "en": "O Bestower who gives freely",
+        "nl": "O Schenker die onvoorwaardelijk geeft",
+        "de": "O Schenkender, der ohne Gegenleistung gibt"
+      },
+      "target": 14,
+      "category": "dua"
+    },
+    {
+      "key": "ya-zulcelali-vel-ikram",
+      "seedId": 12,
+      "text": "يَا ذَا ٱلْجَلَالِ وَٱلْإِكْرَامِ",
+      "transliteration": "Ya Zülcelâli vel-İkrâm",
+      "meaning": {
+        "tr": "Büyüklük ve ikram sahibi",
+        "en": "Lord of Majesty and Generosity",
+        "nl": "Heer van Majesteit en Vrijgevigheid",
+        "de": "Herr der Majestät und Großzügigkeit"
+      },
+      "target": 1100,
+      "category": "dua"
+    },
+    {
+      "key": "ya-latif",
+      "seedId": 13,
+      "text": "يَا لَطِيفُ",
+      "transliteration": "Ya Latif",
+      "meaning": {
+        "tr": "Ey lütuf sahibi, incelikleri bilen",
+        "en": "O Most Kind, who knows the subtleties",
+        "nl": "O Goedgunstige, die de fijnheden kent",
+        "de": "O Gütiger, der die Feinheiten kennt"
+      },
+      "target": 129,
+      "category": "dua"
+    },
+    {
+      "key": "er-rezzak",
+      "seedId": 14,
+      "text": "يَا رَزَّاقُ",
+      "transliteration": "Er Rezzak",
+      "meaning": {
+        "tr": "Ey rızık veren",
+        "en": "O Provider of sustenance",
+        "nl": "O Voorziener van levensonderhoud",
+        "de": "O Versorger mit Lebensunterhalt"
+      },
+      "target": 308,
+      "category": "dua"
+    },
+    {
+      "key": "ya-hamid",
+      "seedId": 15,
+      "text": "يَا حَمِيدُ",
+      "transliteration": "Ya Hamid",
+      "meaning": {
+        "tr": "Ey övülmeye layık olan",
+        "en": "O Praiseworthy",
+        "nl": "O Lofwaardige",
+        "de": "O Lobenswerter"
+      },
+      "target": 62,
+      "category": "dua"
+    },
+    {
+      "key": "ya-hafiz",
+      "seedId": 16,
+      "text": "يَا حَفِيظُ",
+      "transliteration": "Ya Hafız",
+      "meaning": {
+        "tr": "Ey koruyup muhafaza eden",
+        "en": "O Preserver who protects",
+        "nl": "O Bewaarder die beschermt",
+        "de": "O Bewahrer, der beschützt"
+      },
+      "target": 998,
+      "category": "dua"
+    },
+    {
+      "key": "rabbi-inni-lima-enzelte-ileyye-min-hayri",
+      "seedId": 17,
+      "text": "رَبِّ إِنِّي لِمَا أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ",
+      "transliteration": "Rabbi inni lima enzelte ileyye min hayrin fakir",
+      "meaning": {
+        "tr": "Rabbim! Bana indireceğin her hayra muhtacım",
+        "en": "My Lord, I am in need of whatever good You send down to me",
+        "nl": "Mijn Heer, ik heb elk goed nodig dat U mij zendt",
+        "de": "Mein Herr, ich bedarf jedes Guten, das Du mir herabsendest"
+      },
+      "target": 100,
+      "category": "dua"
+    },
+    {
+      "key": "rabbisrah-li-sadri-ve-yessir-li-emri",
+      "seedId": 18,
+      "text": "رَبِّ ٱشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي",
+      "transliteration": "Rabbişrah li sadri ve yessir li emri",
+      "meaning": {
+        "tr": "Rabbim! Göğsümü aç ve işimi kolaylaştır",
+        "en": "My Lord, open my heart and make my task easy",
+        "nl": "Mijn Heer, open mijn hart en maak mijn taak licht",
+        "de": "Mein Herr, weite mir die Brust und erleichtere mir meine Aufgabe"
+      },
+      "target": 100,
+      "category": "dua"
+    },
+    {
+      "key": "es-sekur",
+      "seedId": 19,
+      "text": "يَا شَكُورُ",
+      "transliteration": "Eş-Şekûr",
+      "meaning": {
+        "tr": "Az iyiliğe çok mükafat veren",
+        "en": "The Appreciative, who rewards much for little",
+        "nl": "De Waarderende, die weinig goed rijk beloont",
+        "de": "Der Dankbare, der wenig Gutes reich belohnt"
+      },
+      "target": 526,
+      "category": "dua"
+    },
+    {
+      "key": "allahumme-salli-ala-muhammedin-ve-ala-al",
+      "seedId": 20,
+      "text": "اللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَعَلَىٰ آلِ مُحَمَّدٍ",
+      "transliteration": "Allahümme salli ala Muhammedin ve ala ali Muhammed",
+      "meaning": {
+        "tr": "Allah'ım! Muhammed'e ve âline salât eyle",
+        "en": "O Allah, send blessings upon Muhammad and his family",
+        "nl": "O Allah, zegen Mohammed en zijn familie",
+        "de": "O Allah, segne Muhammad und seine Familie"
+      },
+      "target": 33,
+      "category": "tasbih"
+    },
+    {
+      "key": "allahumme-barik-ala-muhammedin-ve-ala-al",
+      "seedId": 21,
+      "text": "اللَّهُمَّ بَارِكْ عَلَىٰ مُحَمَّدٍ وَعَلَىٰ آلِ مُحَمَّدٍ",
+      "transliteration": "Allahümme barik ala Muhammedin ve ala ali Muhammed",
+      "meaning": {
+        "tr": "Allah'ım! Muhammed'e ve âline bereket ver",
+        "en": "O Allah, grant abundance to Muhammad and his family",
+        "nl": "O Allah, geef Mohammed en zijn familie overvloed",
+        "de": "O Allah, gib Muhammad und seiner Familie Fülle"
+      },
+      "target": 33,
+      "category": "tasbih"
+    },
+    {
+      "key": "subhanallahi-ve-bihamdihi-subhanallahil",
+      "seedId": 22,
+      "text": "سُبْحَانَ ٱللَّٰهِ وَبِحَمْدِهِ سُبْحَانَ ٱللَّٰهِ ٱلْعَظِيمِ",
+      "transliteration": "Subhanallahi ve bihamdihi Subhanallahil azim",
+      "meaning": {
+        "tr": "Allah'ı hamd ile tesbih ederim, yüce Allah'ı tenzih ederim",
+        "en": "Glory and praise be to Allah; glory be to Allah, the Almighty",
+        "nl": "Glorie en lof zij Allah; glorie zij Allah, de Geweldige",
+        "de": "Gepriesen und gelobt sei Allah; gepriesen sei Allah, der Gewaltige"
+      },
+      "target": 100,
+      "category": "tasbih"
+    },
+    {
+      "key": "ayetel-kursi-bakara-255",
+      "seedId": 23,
+      "text": "ٱللَّٰهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَيُّ ٱلْقَيُّومُ",
+      "transliteration": "Ayetel Kürsi (Bakara 255)",
+      "meaning": {
+        "tr": "Allah, kendisinden başka ilah olmayandır. Hayy ve Kayyum'dur",
+        "en": "Allah, there is no god but Him, the Ever-Living, the Self-Subsisting",
+        "nl": "Allah, er is geen god dan Hij, de Eeuwig Levende, de Zelfbestaande",
+        "de": "Allah, es gibt keinen Gott außer Ihm, dem Lebendigen, dem Beständigen"
+      },
+      "target": 1,
+      "category": "dua"
+    },
+    {
+      "key": "la-havle-ve-la-kuvvete-illa-billah",
+      "seedId": 24,
+      "text": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِٱللَّٰهِ",
+      "transliteration": "La havle ve la kuvvete illa billah",
+      "meaning": {
+        "tr": "Güç ve kuvvet ancak Allah'tandır",
+        "en": "There is no power and no strength except with Allah",
+        "nl": "Er is geen macht en kracht behalve bij Allah",
+        "de": "Es gibt keine Macht und keine Kraft außer bei Allah"
+      },
+      "target": 33,
+      "category": "tasbih"
+    },
+    {
+      "key": "salat-i-tefriciye",
+      "seedId": 25,
+      "text": "اللَّهُمَّ صَلِّ صَلَاةً كَامِلَةً وَسَلِّمْ سَلَامًا تَامًّا عَلَىٰ سَيِّدِنَا مُحَمَّدٍ الَّذِي تَنْحَلُّ بِهِ الْعُقَدُ وَتَنْفَرِجُ بِهِ الْكُرَبُ وَتُقْضَىٰ بِهِ الْحَوَائِجُ وَتُنَالُ بِهِ الرَّغَائِبُ وَحُسْنُ الْخَوَاتِمِ وَيُسْتَسْقَى الْغَمَامُ بِوَجْهِهِ الْكَرِيمِ وَعَلَىٰ آلِهِ وَصَحْبِهِ فِي كُلِّ لَمْحَةٍ وَنَفَسٍ بِعَدَدِ كُلِّ مَعْلُومٍ لَكَ",
+      "transliteration": "Salât-ı Tefriciye",
+      "meaning": {
+        "tr": "O'nun hürmetine düğümler çözülür, sıkıntılar giderilir, hacetler karşılanır",
+        "en": "For his sake knots are untied, hardships lifted and needs fulfilled",
+        "nl": "Omwille van hem worden knopen ontward, zorgen verlicht en noden vervuld",
+        "de": "Um seinetwillen lösen sich Knoten, Sorgen weichen und Bitten werden erfüllt"
+      },
+      "target": 41,
+      "category": "dua"
+    }
+  ]
+}
